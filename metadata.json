@@ -1,0 +1,6 @@
+{
+  "name": "Smart Seller Hub - Reseller Platform",
+  "description": "AI-powered Bengali wholesale and reseller platform with admin control, package slot unlocks via bKash/Nagad Gemini AI TxID verification, and 80/20 commission splitting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
